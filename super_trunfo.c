@@ -3,7 +3,6 @@
 int main(){  
 
  printf("Desafio Super Trunfo\n");
- printf("CARTA UM\n");
 
 char Estado = 'A';
 char código[20] = "A01";
