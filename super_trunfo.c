@@ -2,6 +2,9 @@
 
 int main(){  
 
+ printf("Desafio Super Trunfo\n");
+ printf("CARTA UM\n");
+
 char Estado = 'A';
 char código[20] = "A01";
 char cidade[20] = "Palmas";
@@ -17,3 +20,5 @@ printf("a população: %d\n", população);
 printf("a área é: %.2f\n", área);
 printf("o PIB é: %.2f\n", PIB);
 printf("os pontos são: %d\n", pontos);
+
+}
