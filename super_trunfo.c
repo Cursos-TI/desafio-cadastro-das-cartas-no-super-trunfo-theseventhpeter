@@ -21,9 +21,6 @@ printf("a área é: %.2f\n", Área);
 printf("o PIB é: %.2f\n", PIB);
 printf("os pontos são: %d\n", Pontos);
 
-}
-
-{
 printf("Carta 2\n");
 
 char estado = 'B';
